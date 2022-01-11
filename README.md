@@ -9,3 +9,5 @@ Surface mount, using 1210 resistors.
 You will need to mount a stereo jack on your Winkeyer.
 
 Connected by a 3.5mm stereo cable.
+
+The Gerber files will produce 2 boards, so you will have to cut them apart.
